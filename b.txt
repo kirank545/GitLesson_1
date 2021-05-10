@@ -1,0 +1,3 @@
+i am writing some data into thsi file of b
+need to practice on git more
+it is source code repository
