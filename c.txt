@@ -1,6 +1,8 @@
 Hello this is the 3rd file 
 need to practice git and example 
 git have two types of branching
+
 git flow
 git hub flow
 
+Hello i have created the new branch in local repo and modifying the c file 
